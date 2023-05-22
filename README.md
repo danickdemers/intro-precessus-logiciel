@@ -1,6 +1,6 @@
 # Floppa
 
-This is the best web site for selling in Quebec!
+Projet d'API en équipe de 4. Fonctionnait avec les github actions et Maven.
 
 ## Requis
 
